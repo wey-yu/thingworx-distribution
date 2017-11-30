@@ -1,0 +1,15 @@
+{
+   "PlatformSettingsConfig":{
+      "BasicSettings":{
+         "Storage": "/app/thingworx/ThingworxStorage",
+         "BackupStorage": "/app/thingworx/ThingworxBackupStorage",
+         "DatabaseLogRetentionPolicy":7,
+         "EnableBackup":true,
+         "EnableHA":false,
+         "EnableSystemLogging":false,
+         "HTTPRequestHeaderMaxLength":2000,
+         "HTTPRequestParameterMaxLength":2000,
+         "InternalAesCryptographicKeyLength":128
+      }
+   }
+}
